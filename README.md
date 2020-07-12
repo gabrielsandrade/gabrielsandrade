@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying Computer Engineering at UFBA
 - 🌱 I’m currently learning JavaScript and PhP
 - 💬 Ask me about anything
-- 📫 How to reach me: [Twitter](https://twitter.com/ga_brieell_ "Perfil do twitter")
+- 📫 How to reach me: [Twitter](https://twitter.com/ga_brieell_ "Perfil do twitter") , [Email](mailto:someone@microsoft.com "Email") 
 - ⚡ Fun fact: - Lord of the Rings fan
 <!--
 **gabrielsandrade/gabrielsandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
