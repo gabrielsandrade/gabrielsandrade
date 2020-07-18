@@ -1,10 +1,10 @@
 ### Hi there👋
 
 - 🔭 I’m currently studying Computer Engineering at UFBA
-- 🌱 I’m currently learning JavaScript and PhP
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything
-- 📫 How to reach me: [Twitter](https://twitter.com/ga_brieell_ "Perfil do twitter") , [Email](mailto:gabriel.andrad4@gmail.com "Email") 
-- ⚡ Fun fact: - Lord of the Rings fan
+- 📫 How to reach me: [Twitter](https://twitter.com/ga_brieell_ "Perfil do twitter") , [Email](mailto:gabriel.andrad4@gmail.com "Email") , [My website](http://gabrielsandrade.github.io "Personal Website")
+- ⚡ Fun fact: - I love The Lord of the Rings and I solve rubik's cube in 1 minute.
 <!--
 **gabrielsandrade/gabrielsandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
