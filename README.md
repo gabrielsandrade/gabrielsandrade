@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working at 2Mundos
 - 🔭 I’m currently studying Computer Engineering at UFBA
-- 📫 How to reach me: [Twitter](https://twitter.com/ga_brieell_ "Perfil do twitter") , [Email](mailto:gabriel.andrad4@gmail.com "Email") , [My website](http://gabrielsandrade.github.io "Personal Website")
+- 📫 How to reach me: [Twitter](https://twitter.com/ga_brieell_ "Perfil do twitter") , [Email](mailto:gabriel.andrad4@gmail.com "Email") , [My website (in construction)](http://gabrielsandrade.github.io "Personal Website")
 <!--
 **gabrielsandrade/gabrielsandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
